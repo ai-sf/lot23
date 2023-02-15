@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>LOT2022 - Strutture</title>
+
+<!-- Standard html meta tags -->
+    
+    <meta name="description" content="  {{ site.data.facilities.intro }}  Le Univeristà  {% for item in site.data.facilities.university %}    {% assign col = forloop.index0 | modulo:2 %}    {% if..." />
+    <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
+    <meta property="og:image" content="">
+    <!--
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta property="og:image" content="">
+    -->
+    
+<!-- og -->
+    <meta property="og:title" content="Strutture">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:4000/facilities/">
+
+<meta property="og:description" content="  {{ site.data.facilities.intro }}  Le Univeristà  {% for item in site.data.facilities.university %}    {% assign col = forloop.index0 | modulo:2 %}    {% if...">
+<meta property="og:site_name" content="">
+<meta property="og:locale" content="it">
+
+<meta property="fb:admins" content=""> <!-- editable in config.yml -->
+<meta property="fb:app_id" content="">
+
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="Strutture" />
+<meta name="twitter:description"    content="  {{ site.data.facilities.intro }}  Le Univeristà  {% for item in site.data.facilities.university %}    {% assign col = forloop.index0 | modulo:2 %}    {% if..."/>
+<!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
+
+
+
+
+
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+</head>
+
+  <body>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<nav class="custom1" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">LOT2022</a>
+
+        <ul class="right hide-on-med-and-down">
+          
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                    
+                        Strutture
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                    
+                        Programma
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                    
+                        Speakers
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Iscrizione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                    
+                        Sponsors
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                    
+                        AISF
+                    
+                </a>
+            </li>
+            
+        
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="height:64px" data="http://localhost:4000/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                  
+                  Strutture
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                  
+                  Programma
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                  
+                  Speakers
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Iscrizione
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                  
+                  Sponsors
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                  
+                  AISF
+                  
+                </a></li>
+                
+            
+        </ul>
+    </div>
+</nav>
+
+        <div class="container">
+    <div class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">Strutture</h1>
+      </header>
+
+      <article class="post-content">
+        <p>
+  Il programma scientifico prevede di mostrare ai partecipanti un ampio spettro di strutture scientifiche e accademiche di alto profilo presenti a Pisa e Firenze <br> Il laboratorio VIRGO dell'European Gravitational Observatory (EGO). <br> Italy National Research Council (CNR). <br> L'Istituto Nazionale di Fisica Nucleare (INFN) <br> European Laboratory for Non-linear Spectroscopy (LENS) <br> L'Università di Pisa. <br> L'Università di Firenze. <br> Come nelle precedenti edizioni sono previste anche delle piccole conferenze. In particolare si parlerà degli ultimi sviluppi delle ricerche portate avanti anche in questi laboratori e delle loro implicazioni in altri ambiti, per poterle osservare e comprendere da più punti di vista.
+</p>
+
+<div class="section">
+  <h2>Le Univeristà</h2>
+
+  
+    
+    
+      <div class="row">
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/unifi.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">Università di Firenze</span>
+    	       <p>
+               <small>
+                 L'Università di Firenze è la più grande della Toscana. Il suo nuovo dipartimento di fisica, in un campus scientifico fuori città, è fortemente legato ai centri di ricerca e alle altre istituzioni. Tra la sua vasta gamma di campi di ricerca, un ampio gruppo di fisica della materia studia principalmente la biofotonica e le tecnologie quantistiche.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="http://www.fisica.unifi.it/">Sito</a>
+        	  <a href="https://www.google.es/maps/place/Universita+degli+Studi+di+Firenze+-+Dipartimento+di+Fisica+e+Astronomia/@43.7987785,11.1910547,13z/data=!4m8!1m2!2m1!1suniversita+firen%3Ce+fisica!3m4!1s0x132a57a4e0d17979:0x8d8972ad41a1449c!8m2!3d43.8198012!4d11.1925551?hl=en">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+  
+    
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/IMG_-_46.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">Università di Pisa</span>
+    	       <p>
+               <small>
+                 L'Università di Pisa è una delle università più antiche d'Italia e d'Europa. Nelle sue strutture, tra gli altri, hanno studiato i premi Nobel per la Fisica Enrico Fermi e Carlo Rubbia. È costantemente classificata tra le migliori università del mondo per la Fisica e comprende, tra gli altri, laboratori dedicati all'ottica, ai laser e alla crescita dei cristalli.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="http://www.df.unipi.it">Sito</a>
+        	  <a href="https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+    </div>
+    
+  
+</div>
+
+<div class="section">
+  <h2>Le Strutture</h2>
+
+  
+    
+    
+      <div class="row">
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/LENS.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">LENS</span>
+    	       <p>
+               <small>
+                 The European Laboratory for Non-linear Spectroscopy (LENS) è una struttura internazionale e interdisciplinare con sede a Firenze. Le principali linee di ricerca sono la fisica atomica, la fotonica, la chimica fisica e la biofisica.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="http://www.lens.unifi.it">Sito</a>
+        	  <a href="https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+  
+    
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/VIRGO.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">VIRGO</span>
+    	       <p>
+               <small>
+                 VIRGO è un rivelatore di onde gravitazionali costituito da un enorme interferometro laser di tipo Michelson. Fa parte della collaborazione che ha scoperto le Onde Gravitazionali.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="http://www.virgo-gw.eu">Sito</a>
+        	  <a href="https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+    </div>
+    
+  
+    
+    
+      <div class="row">
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/Pi_INO.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">INO</span>
+    	       <p>
+               <small>
+                 L'Istituto Nazionale di Ottica (INO) è un caposaldo della rete scientifica del CNR. Opera da oltre novant'anni nel campo dell'Ottica, intesa nella sua accezione più ampia, e ha sempre aggiornato i propri campi di attività in linea con le grandi innovazioni che hanno caratterizzato questo ambito nell'ultimo secolo.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="https://fed.ino.it/">Sito</a>
+        	  <a href="https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+  
+    
+    
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/INFN.jpg">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">INFN</span>
+    	       <p>
+               <small>
+                 La Sezione di Pisa dell’INFN nasce durante i primi anni cinquanta da un gruppo di ricercatori dell’Istituto di Fisica dell’Università di Pisa, facendo di questa città il perfetto punto d'incontro tra fisici teorici e sperimentali. I suoi ricercatori partecipano da sempre alle più importanti collaborazioni italiane e internazionali.
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="https://www.pi.infn.it/">Sito</a>
+        	  <a href="https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+    </div>
+    
+  
+</div>
+
+<div class="section">
+  <h2>Sistemazione</h2>
+      Ai partecipanti saranno predisposti pernottamenti e colazioni presso alcuni hotel nei pressi della Stazione Centrale di Pisa.
+
+  
+    
+    
+      <div class="row">
+    
+      <div class="col s12 m6">
+        <div class="card">
+           <div class="card-image">
+    	       <img src="http://localhost:4000/img/facilities/hotel.jpg">
+          </div> 
+          <div class="card-content">
+    	       <span class="card-title custom2-text text-lighten-1">Hotel Moderno</span>
+    	       <p>
+               <small>
+                 L'alloggio a Pisa sarà previsto presso l'Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)
+               </small>
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="https://www.hotelmoderno.pisa.it/en/">Sito</a>
+        	  <a href="https://goo.gl/maps/BuixrGsC8tQ2">Mappa</a>
+        	</div>
+        </div>
+      </div>
+    
+  
+</div>
+
+
+      </article>
+
+    </div>
+</div>
+
+    <footer class="page-footer custom1">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 m6 s12">
+        <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
+        <p class="grey-text text-lighten-4">L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione non a scopo di lucro con finalità didattiche che riunisce tutti gli studenti italiani di fisica. È stata fondata ad Heidelberg nell'agosto 2014 e da gennaio 2015 è un comitato nazionale dell'Associazione internazionale degli studenti di fisica (IAPS). Conta più di 1000 membri e 17 Comitati Locali.</p>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Contact</h5>
+        <ul>
+        
+      	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF</a></li>
+        
+        </ul>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Connect</h5>
+        <ul>
+          
+	  <li>
+            
+            <a class="white-text" href="https://it-it.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/fb_logo.png"> Facebook</a>
+            
+          </li>
+	  
+	  <li>
+            
+            <a class="white-text" href="https://www.instagram.com/aisf_fisica/" target="_blank"><img src="http://localhost:4000/img/insta_logo.png"> Instagram</a>
+            
+          </li>
+	  
+	  <li>
+            
+            <a class="white-text" href="https://twitter.com/aisf_fisica" target="_blank"><img src="http://localhost:4000/img/tw_logo.png"> Twitter</a>
+			
+          </li>
+	  
+	  <li>
+            
+			<a class="white-text" target="_blank" href="https://www.iaps.info/">IAPS Website</a>
+            
+          </li>
+	  
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container">
+      Built with Jekyll and materializecss by
+      
+        <a class="white-text text-accent-3" href="mailto:elisa.garabello@ai-sf.it">Elisa Garabello</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.it">Giovanni Stagnitto</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:damiano.lucarelli.ld@gmail.com">Damiano Lucarelli</a>
+        
+        .
+        
+      
+    </div>
+  </div>
+</footer>
+
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/js/bin/materialize.min.js"></script>
+
+
+<script> // Slider
+  $(document).ready(function(){
+  $('.slider').slider({full_width: false});
+  });
+</script>
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  $('.collapsible').collapsible();
+</script>
+<script>
+  $(document).ready(function(){
+  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+  $('.modal-trigger').leanModal();
+  });
+</script>
+<script>
+  $(document).ready(function(){
+      $('.carousel').carousel();
+  });
+</script>
+
+</html>

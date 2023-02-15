@@ -1,0 +1,38 @@
+banner: img/LoT2022_logo.png
+
+# msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Light of Tuscany!"
+
+who: "40 studenti, iscritti all'Associazione Italiana Studenti di Fisica, provenienti da tutta Italia e di ogni età."
+
+when: "Dal 13 al 16 Maggio 2022, arrivi e partenze compresi."
+
+where: "Tre giorni a Pisa, uno a Firenze.<br/> La cerimonia di apertura si terrà a Pisa, con conferenze e poster session. Nei giorni successivi i partecipanti visiteranno, tra gli altri, i laboratori di VIRGO e CNR, ma avranno anche l'opportunità di visitare la città di Pisa.<br/> Il lunedì invece ci sposteremo a Firenze, dove sarà possibile visitare i laboratori del LENS e il dipartimento di Fisica, dove si terrà la cerimonia di chiusura."
+
+slideshow:
+  - img: img/facilities/lens.jpg
+    alt: European Laboratory for Nonlinear Spectroscopy
+    title: LENS
+    text: European Laboratory for Nonlinear Spectroscopy
+  - img: img/facilities/LoT5.jpg
+    alt: VIRGO European Gravitational Observatory
+    title: VIRGO
+    text: VIRGO European Gravitational Observatory
+  - img: img/facilities/Pi_INO.jpg
+    alt: Istituto Nazionale di Ottica - CNR
+    title: INO
+    text: Istituto Nazionale di Ottica - CNR
+  - img: img/facilities/IMG_-_46.jpg
+    alt: Università di Pisa
+    title: UNIPI
+    text: Università di Pisa
+  - img: img/facilities/unifi.jpg
+    alt: Università di Firenze
+    title: UNIFI
+    text: Università di Firenze
+  - img: img/facilities/INFN2.jpg
+    alt: Istiuto Nazionale Fisica Nucleare
+    title: INFN
+    text: Istiuto Nazionale Fisica Nucleare
+
+
+paragraph: "Benvenuti alla quarta edizione di Lights of Tuscany!<br/> Quest'evento porterà 40 studenti membri dell'Associazione Italiana Studenti di Fisica a visitare alcuni dei centri di ricerca più all'avanguardia d'Europa, conoscendo le ultime novità nei campi di Ottica e Fotonica, nonché le loro applicazioni, raccontate direttamente da chi vi partecipa."

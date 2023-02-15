@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>LOT2022 - Programma</title>
+
+<!-- Standard html meta tags -->
+    
+    <meta name="description" content="  Informazioni Generali      {{ site.data.programme.info }}    Schedule                  {% for item in site.data.programme.schedule %}                      ..." />
+    <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
+    <meta property="og:image" content="">
+    <!--
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta property="og:image" content="">
+    -->
+    
+<!-- og -->
+    <meta property="og:title" content="Programma">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:4000/programme/">
+
+<meta property="og:description" content="  Informazioni Generali      {{ site.data.programme.info }}    Schedule                  {% for item in site.data.programme.schedule %}                      ...">
+<meta property="og:site_name" content="">
+<meta property="og:locale" content="it">
+
+<meta property="fb:admins" content=""> <!-- editable in config.yml -->
+<meta property="fb:app_id" content="">
+
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="Programma" />
+<meta name="twitter:description"    content="  Informazioni Generali      {{ site.data.programme.info }}    Schedule                  {% for item in site.data.programme.schedule %}                      ..."/>
+<!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
+
+
+
+
+
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+</head>
+
+  <body>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<nav class="custom1" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">LOT2022</a>
+
+        <ul class="right hide-on-med-and-down">
+          
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                    
+                        Strutture
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                    
+                        Programma
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                    
+                        Speakers
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Iscrizione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                    
+                        Sponsors
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                    
+                        AISF
+                    
+                </a>
+            </li>
+            
+        
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="height:64px" data="http://localhost:4000/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                  
+                  Strutture
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                  
+                  Programma
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                  
+                  Speakers
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Iscrizione
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                  
+                  Sponsors
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                  
+                  AISF
+                  
+                </a></li>
+                
+            
+        </ul>
+    </div>
+</nav>
+
+        <div class="container">
+    <div class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">Programma</h1>
+      </header>
+
+      <article class="post-content">
+        <div class="section">
+  <h2>Informazioni Generali</h2>
+  <p>
+     <p> Il programma Lights of Tuscany giunge alla sua quarta edizione. Dopo il grande successo deglle precedenti e un lungo periodo di assenza di grandi eventi live a causa della pandemia che ancora ci investe, l'Associazione Italiana Studenti di Fisica (AISF) ha deciso di riproporre uno dei suoi eventi di maggior successo, includendo anche alcune novità. </p> <p> L'evento sarà incentrato sulla fotonica, ma verranno toccati numerosi altri argomenti, tra cui la fisica della materia, l'ottica quantistica, la biofisica. Agli studenti sarà utile avere una conoscenza di base di questi argomenti, ma vogliamo far sì che chiunque sia interessato possa usufruire al meglio di questa opportunità per imparare cose nuove, indipendentemente dal proprio background. </p> <p> Lights of Tuscany 2022 è il primo evento in presenza organizzato da AISF dall'inizio della pandemia e vorremmo che costituisse un'opportunità per gli studenti di incontrarsi, socializzare, scambiarsi idee e, perché no, preparare il terreno per nuove amicizie o future collaborazioni. A questo scopo sono state inserite nei 4 giorni di programma alcune attività sociali e di carattere culturale. </p> <p> Il Programma sarà costantemente aggiornato man mano che verranno definiti ulteriori dettagli. </p> 
+  </p>
+</div>
+
+<div class="section">
+  <h2>Schedule</h2>
+
+  <div class="row">
+    <div class="col s12">
+      <ul class="collapsible popout" data-collapsible="accordion">
+      
+        <li>
+          <div class="collapsible-header">
+            <div class="center">
+              13/05 - Venerdì
+            </div>
+          </div>
+          <div class="collapsible-body">
+            <table class="centered striped">
+              <tbody>
+                <tr>
+                  <td colspan="2">Arrivo a Pisa e Conferenze di Apertura.</td>
+                </tr>
+              
+                <tr>
+                  <td>07.00 - 15.00</td>
+                  <td>Check-in</td>
+                </tr>
+              
+                <tr>
+                  <td>16.00 - 16.15</td>
+                  <td>Cerimonia di Apertura</td>
+                </tr>
+              
+                <tr>
+                  <td>16.15 - 19.00</td>
+                  <td>Guest Lectures</td>
+                </tr>
+              
+                <tr>
+                  <td>19.00 - ..</td>
+                  <td>Poster Session</td>
+                </tr>
+              
+                <tr>
+                  <td>19.00 - 20.00</td>
+                  <td>Cena a buffet</td>
+                </tr>
+              
+                <tr>
+                  <td>21.00 - ..</td>
+                  <td>Visita notturna a Pisa</td>
+                </tr>
+              
+              </tbody>
+            </table>
+          </div>
+        </li>
+      
+        <li>
+          <div class="collapsible-header">
+            <div class="center">
+              14/05 - Sabato
+            </div>
+          </div>
+          <div class="collapsible-body">
+            <table class="centered striped">
+              <tbody>
+                <tr>
+                  <td colspan="2">Visita a VIRGO e Laboratori di Pisa</td>
+                </tr>
+              
+                <tr>
+                  <td>07.00 - 08.00</td>
+                  <td>Colazione</td>
+                </tr>
+              
+                <tr>
+                  <td>08.00 - 09.00</td>
+                  <td>Trasferimento in bus</td>
+                </tr>
+              
+                <tr>
+                  <td>09.00 - 12.00</td>
+                  <td>Visita a VIRGO</td>
+                </tr>
+              
+                <tr>
+                  <td>12.30 - 13.30</td>
+                  <td>Pranzo a mensa @Pisa</td>
+                </tr>
+              
+                <tr>
+                  <td>14.30 - 19.00</td>
+                  <td>Visita ai laboratori</td>
+                </tr>
+              
+                <tr>
+                  <td>19.00 - 21.00</td>
+                  <td>Cena</td>
+                </tr>
+              
+                <tr>
+                  <td>21.00 - ..</td>
+                  <td>Free night</td>
+                </tr>
+              
+              </tbody>
+            </table>
+          </div>
+        </li>
+      
+        <li>
+          <div class="collapsible-header">
+            <div class="center">
+              15/05 - Domenica
+            </div>
+          </div>
+          <div class="collapsible-body">
+            <table class="centered striped">
+              <tbody>
+                <tr>
+                  <td colspan="2">Student Talks e visita di Pisa</td>
+                </tr>
+              
+                <tr>
+                  <td>07.00 - 08.00</td>
+                  <td>Colazione</td>
+                </tr>
+              
+                <tr>
+                  <td>08.00 - 12.00</td>
+                  <td>Student Talks</td>
+                </tr>
+              
+                <tr>
+                  <td>12.00 - 14.00</td>
+                  <td>Pranzo a mensa @Pisa</td>
+                </tr>
+              
+                <tr>
+                  <td>15.00 - 19.00</td>
+                  <td>Visite e attività culturali @Pisa</td>
+                </tr>
+              
+                <tr>
+                  <td>19.00 - 21.00</td>
+                  <td>Cena sociale</td>
+                </tr>
+              
+                <tr>
+                  <td>21.00 - ..</td>
+                  <td>Giochi e attività di gruppo</td>
+                </tr>
+              
+              </tbody>
+            </table>
+          </div>
+        </li>
+      
+        <li>
+          <div class="collapsible-header">
+            <div class="center">
+              16/06 - Lunedì
+            </div>
+          </div>
+          <div class="collapsible-body">
+            <table class="centered striped">
+              <tbody>
+                <tr>
+                  <td colspan="2">LENS e Cerimonia di Chiusura a Firenze</td>
+                </tr>
+              
+                <tr>
+                  <td>07.00 - 11.00</td>
+                  <td>Colazione e Trasferimento a Firenze</td>
+                </tr>
+              
+                <tr>
+                  <td>11.00 - 13.00</td>
+                  <td>Pranzo a mensa @Firenze</td>
+                </tr>
+              
+                <tr>
+                  <td>14.00 - 16.00</td>
+                  <td>Visita al LENS</td>
+                </tr>
+              
+                <tr>
+                  <td>16.00 - 17.00</td>
+                  <td>Cerimonia di Chiusura"</td>
+                </tr>
+              
+                <tr>
+                  <td>17.30 - ..</td>
+                  <td>Partenze</td>
+                </tr>
+              
+              </tbody>
+            </table>
+          </div>
+        </li>
+      
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Note Importanti</h2>
+  <p><p>
+  <div class="collection">
+  
+    <a
+      
+         href="http://localhost:4000/"
+      
+      class="collection-item black-text">
+      Il costo dell'evento per ciascun partecipante è fissato a un massimo di €80. Tenete a mente che questa somma <b>non comprende</b>:
+      
+        <span class="badge custom1 white-text"></span>
+      
+    </a>
+    
+      <a
+        
+           href="http://localhost:4000/"
+        
+        class="collection-item black-text custom1 lighten-5">
+        Viaggi verso Pisa, trasferimenti verso la vostra sistemazione e partenze da Firenze. L'organizzazione di questi e i loro costi sono lasciati al partecipante;
+        
+          <span class="badge custom1 white-text"></span>
+        
+      </a>
+    
+      <a
+        
+           href="http://localhost:4000/"
+        
+        class="collection-item black-text custom1 lighten-5">
+        Assicurazione;
+        
+          <span class="badge custom1 white-text"></span>
+        
+      </a>
+    
+      <a
+        
+           href="http://localhost:4000/"
+        
+        class="collection-item black-text custom1 lighten-5">
+        Pasti non specificati nel Programma ufficiale. Il Comitato Organizzatore non mancherà di suggerire luoghi dove poter mangiare e rilassarsi.
+        
+          <span class="badge custom1 white-text"></span>
+        
+      </a>
+    
+  
+  </div>
+</div>
+
+      </article>
+
+    </div>
+</div>
+
+    <footer class="page-footer custom1">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 m6 s12">
+        <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
+        <p class="grey-text text-lighten-4">L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione non a scopo di lucro con finalità didattiche che riunisce tutti gli studenti italiani di fisica. È stata fondata ad Heidelberg nell'agosto 2014 e da gennaio 2015 è un comitato nazionale dell'Associazione internazionale degli studenti di fisica (IAPS). Conta più di 1000 membri e 17 Comitati Locali.</p>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Contact</h5>
+        <ul>
+        
+      	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF</a></li>
+        
+        </ul>
+      </div>
+      <div class="col l3 m6 s6">
+        <h5 class="white-text">Connect</h5>
+        <ul>
+          
+	  <li>
+            
+            <a class="white-text" href="https://it-it.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/fb_logo.png"> Facebook</a>
+            
+          </li>
+	  
+	  <li>
+            
+            <a class="white-text" href="https://www.instagram.com/aisf_fisica/" target="_blank"><img src="http://localhost:4000/img/insta_logo.png"> Instagram</a>
+            
+          </li>
+	  
+	  <li>
+            
+            <a class="white-text" href="https://twitter.com/aisf_fisica" target="_blank"><img src="http://localhost:4000/img/tw_logo.png"> Twitter</a>
+			
+          </li>
+	  
+	  <li>
+            
+			<a class="white-text" target="_blank" href="https://www.iaps.info/">IAPS Website</a>
+            
+          </li>
+	  
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container">
+      Built with Jekyll and materializecss by
+      
+        <a class="white-text text-accent-3" href="mailto:elisa.garabello@ai-sf.it">Elisa Garabello</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.it">Giovanni Stagnitto</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:damiano.lucarelli.ld@gmail.com">Damiano Lucarelli</a>
+        
+        .
+        
+      
+    </div>
+  </div>
+</footer>
+
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/js/bin/materialize.min.js"></script>
+
+
+<script> // Slider
+  $(document).ready(function(){
+  $('.slider').slider({full_width: false});
+  });
+</script>
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  $('.collapsible').collapsible();
+</script>
+<script>
+  $(document).ready(function(){
+  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+  $('.modal-trigger').leanModal();
+  });
+</script>
+<script>
+  $(document).ready(function(){
+      $('.carousel').carousel();
+  });
+</script>
+
+</html>

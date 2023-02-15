@@ -1,0 +1,5 @@
+- id: "{{ site.url }}"
+  title: "Lights Of Tuscany 2022"
+  img: "img/LoT2022_logo.png"
+  description: "Programme for international physics students in the VIRGO, LENS, INFN labs and Universities of Pisa and Florence"
+  keywords: "aisf associazione italiana studenti di fisica iaps lot lights of tuscany pisa firenze"

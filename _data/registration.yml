@@ -1,0 +1,53 @@
+info: "Puoi trovare il modulo di iscrizione in fondo a questa pagina.
+</p><p>
+Prima di compilarlo, leggi i termini e le condizioni di seguito. Ti ricordiamo che, al momento dell'iscrizione, ti verranno richiesti dati anagrafici (quali nome, cognome, data di nascita, affiliazione universitaria, documento di identità, ecc.) e una nota per descrivere la tua motivazione a partecipare all'evento."
+
+starting_date: "2022-04-18 12:00"
+ending_date: "2022-04-30 23:59"
+
+posters?: true
+
+posters: "Durante la terza giornata di attività si terrà a Pisa una serie di brevi talk degli studenti e durante la cerimonia di apertura sarà organizzata una poster session. Gli studenti di tutti i livelli e specializzazioni sono invitati a presentare domanda per presentare il proprio lavoro di ricerca, sia esso parte di un progetto di tesi (a livello di laurea, master o dottorato di ricerca) o il risultato di un programma di ricerca estivo"
+
+selection:
+  info: ""
+  specs:
+    - text: "Per partecipare all'evento devi essere iscritto ad AISF. Se non lo sei puoi iscriverti anche adesso."
+      url: "http://ai-sf.it/iscrizione"
+      button: Form
+    - text: "È richiesto ad ogni partecipante il possesso di un <b>green pass rafforzato</b> in corso di validità per tutta la durata dell'evento. Verrà richiesto ad esempio di mostrarlo all'entrata di ogni laboratorio o struttura coinvolta nel programma."
+    - text: "Sono disponibili 40 posti. Una volta terminato il periodo di iscrizione, i candidati selezionati dovranno confermare l'iscrizione pagando una quota di partecipazione di massimo € 80."
+    - text: "Nel modulo di iscrizione è possibile di organizzare la propria sistemazione autonomamente; in tal caso la quota di partecipazione è € 50."
+    - text: "Verrà data preferenza agli studenti che presenteranno abstract (per un talk o un poster)"
+    - text: "Si prega di notare che sfortunatamente non possiamo fornire borse di studio e/o finanziamenti per nessuno studente al momento."
+
+terms:
+  info: "Prima di iscriverti all'evento, leggi attentamente e prendi nota di quanto segue:"
+  specs:
+    - text: "Tutti i dati personali saranno trattati con riservatezza. Non verranno inoltrati a terzi salvo ove necessario ai fini dell'evento. Tieni presente che inoltreremo alcune delle informazioni contenute nel modulo di registrazione alle università e ai centri di ricerca coinvolti, nonché agli hotel per organizzare le sistemazioni."
+      url: "#!"
+    - text: "Possono partecipare a questo evento solo gli studenti iscritti a un'università o istituto simile a un corso di fisica o attinente alla fisica, nonché fino a dodici mesi dopo aver conseguito la laurea in un'università. Confermi che avrai almeno 18 anni di età entro il 13 Maggio 2022."
+      url: "#!"
+    - text: "Riconosci e accetti che il comitato organizzatore e gli organizzatori dell'evento non hanno alcuna responsabilità per lesioni, perdite o danni di qualsiasi tipo derivanti dalla tua partecipazione al programma Lights of Tuscany 2022."
+      url: "#!"
+    - text: "Accetti i Termini e le Condizioni di AISF."
+      url: "files/Informativa_Privacy_AISF.pdf"
+      button: "PDF"
+    - text: "Partecipando all'evento accetti di essere ripreso, fotografato e registrato in altri modi durante la conferenza e con la presente concedi espressamente al comitato organizzatore, AISF, il diritto di utilizzare la tua foto, film o qualsiasi altra forma di pubblicazione sui media in contesti come il sito internet, social media, brochure, poster, materiale informativo e pubblicitario. Confermi inoltre che le informazioni contenute in questa iscrizione sono vere e corrette."
+      url: "#!"
+    - text: "Accetti che né il comitato organizzatore, né l'AISF o uno qualsiasi degli Istituti ospitanti non possano essere ritenuti responsabili del contenuto di qualsiasi intervento, poster, workshop, escursione o attività simile."
+      url: "#!"
+    - text: "Accetti che, in caso di disdetta da parte di un partecipante, il Comitato Organizzatore provveda al rimborso fino al 5 Maggio 2022, solo se sarà possibile trovare un sostituto per lo studente. Prima di tale data, l'eventuale rimborso sarà effettuato ad eccezione di una quota di € 20, che verrà trattenuta a copertura delle spese amministrative. In nessun caso è previsto alcun rimborso delle quote associative."
+      url: "#!"
+    - text: "I presenti termini e condizioni sono regolati dalle leggi della Repubblica Italiana."
+      url: "#!"
+
+deadlines:
+  info: ""
+  specs:
+    - text: "Le iscrizioni termineranno il 30 Aprile 2022 alle 12:00"
+      url: "#!"
+    - text: "Una volta terminate le iscrizioni, tutti i partecipanti selezionati saranno contattati via email. I pagamenti saranno quindi richiesti (tramite bonifico bancario o PayPal) entro il 5 Maggio 2022."
+      url: "#!"
+    - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
+      url: "#!"

@@ -1,0 +1,42 @@
+---
+layout: page
+title: Sponsors & Partners 
+---
+
+{% for sezione in site.data.sponsors %}
+<h3>{{ sezione.title}}</h3>
+<div class="row">
+  {% for item in sezione.subitems %}
+  <div class="col {{sezione.format}}">
+    <div class="card">
+      {% if item.img != nihil %}		
+      <div class="card-image" >
+	<img src="{{site.url}}/img/sponsors/{{item.img}}">
+      </div>
+      {% endif %}
+      <div class="card-content">
+        <p style='font-size: large'>{{item.text}}</p>
+      </div>
+      {% if item.link != nihil %}
+      <div class="card-action">
+        <a href="{{item.link}}" target="_blank">SITO WEB</a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<br>
+{% endfor %}
+
+<br>
+<div class="section">
+  <div class="row">
+    <div class="col s12">
+      <h4>Sostienici</h4>
+      <p>Se siete interessati a sponsorizzare il nostro evento potete scrivere un'email a <a class="custom1-text" href="mailto:giulio.carotta@ai-sf.it">questo indirizzo</a>.</p>
+    </div><br>
+  </div>
+</div>
+
+
