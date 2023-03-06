@@ -1,4 +1,4 @@
-- title: "Questo evento non sarebbe possibile senza l'aiuto dei nostri partner e sponsor:"
+- title: "This event has been made possible thanks to our sponsors and partners:"
   format: "m3"
   subitems:
     # - text: Light4Tech
@@ -16,40 +16,39 @@
     # - text: Consiglio Nazionale delle ricerche
       # img: CNR.png
       # link: 
-    - text: INO
-      img: cnr_ino.png
-      link: "https://fed.ino.it/"
+   # - text: INO
+    #  img: cnr_ino.png
+      #link: "https://fed.ino.it/"
 
 - title: ""
   format: "m3"
   subitems:
-    - text: Dipartimento di Fisica e Astronomia - UniFi 
-      img: dipartimento_firenze.png
-      link: "http://www.fisica.unifi.it/"
     - text: Dipartimento di Fisica - UniPi 
       img: dipartimento_pisa.png
       link: "http://www.df.unipi.it"
     - text: Università di Pisa
       img: unipi.png
       link: "https://www.unipi.it/"
-    - text: University of Firenze
-      img: LOGO_UNIFI.jpg
-      link: "https://www.unifi.it/"
+#    - text: University of Firenze
+ #     img: LOGO_UNIFI.jpg
+  #    link: "https://www.unifi.it/"
+#    - text: Dipartimento di Fisica e Astronomia - UniFi 
+ #     img: dipartimento_firenze.png
+  #    link: "http://www.fisica.unifi.it/"
 
 
-
-- title: "Con il patrocinio di:"
-  format: "m3"
-  subitems:
+#- title: "With the support of:"
+ # format: "m3"
+  #subitems:
     # - text: Comune di Firenze
       # img: comune_firenze.jpg
       # link: 
-    - text: Comune di Pisa
-      img: comune_pisa.png
-      link: 
-    - text: Società Italiana di Fisica
-      img: "logo-sif-125-oro.png"
-      link: "http://www.sif.it/news"
+    #- text: Comune di Pisa
+      #img: comune_pisa.png
+     # link: 
+    #- text: Società Italiana di Fisica
+#      img: "logo-sif-125-oro.png"
+ #     link: "http://www.sif.it/news"
    
     
    
