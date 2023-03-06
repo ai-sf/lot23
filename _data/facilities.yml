@@ -1,60 +1,69 @@
-intro: "Il programma scientifico prevede di mostrare ai partecipanti un ampio spettro di strutture scientifiche e accademiche di alto profilo presenti a Pisa e Firenze
+intro: "The scientific programme plans to show the participants a wide spectrum of high profile scientific and academic facilities present in Pisa and Florence:
 <br>
-Il laboratorio VIRGO dell'European Gravitational Observatory (EGO).
+  - The VIRGO site of the European Gravitational Observatory (EGO).
 <br>
-Italy National Research Council (CNR).
+  - The Italy National Research Council (CNR).
 <br>
-L'Istituto Nazionale di Fisica Nucleare (INFN)
+  - The National Institute for Nuclear Physics (INFN)
 <br>
-European Laboratory for Non-linear Spectroscopy (LENS)
+  - The European Laboratory for Non-linear Spectroscopy (LENS)
 <br>
-L'Università di Pisa.
+  - The University of Pisa.
 <br>
-L'Università di Firenze. 
+  - The University of Florence. 
 <br>
-Come nelle precedenti edizioni sono previste anche delle piccole conferenze. In particolare si parlerà degli ultimi sviluppi delle ricerche portate avanti anche in questi laboratori e delle loro implicazioni in altri ambiti, per poterle osservare e comprendere da più punti di vista."
+<br>
+Beside the visits there will be a large number of talks, as in the past editions. In particular we will have overview on all the major topics and experiments currently running in the above facilities and their implication, so to better appriciate the visits and understand the concepts from different points of view. It will be an undoubtedly rich experience."
 
 university:
   - img: img/facilities/unifi.jpg
-    title: Università di Firenze
-    descr: "L'Università di Firenze è la più grande della Toscana. Il suo nuovo dipartimento di fisica, in un campus scientifico fuori città, è fortemente legato ai centri di ricerca e alle altre istituzioni. Tra la sua vasta gamma di campi di ricerca, un ampio gruppo di fisica della materia studia principalmente la biofotonica e le tecnologie quantistiche."
+    title: University of Florence
+    descr: "The University of Florence is the largest one in Tuscany.Its new department of Physics, placed in a scientific campus outside of the city, works closely with many research centres and institutions. Among its various research fields, a large group counducts studies in matter physics, in particular on biofotonics and quantum technologies."
     site: "http://www.fisica.unifi.it/"
     map: "https://www.google.es/maps/place/Universita+degli+Studi+di+Firenze+-+Dipartimento+di+Fisica+e+Astronomia/@43.7987785,11.1910547,13z/data=!4m8!1m2!2m1!1suniversita+firen%3Ce+fisica!3m4!1s0x132a57a4e0d17979:0x8d8972ad41a1449c!8m2!3d43.8198012!4d11.1925551?hl=en"
 
   - img: img/facilities/IMG_-_46.jpg
-    title: Università di Pisa
-    descr: "L'Università di Pisa è una delle università più antiche d'Italia e d'Europa. Nelle sue strutture, tra gli altri, hanno studiato i premi Nobel per la Fisica Enrico Fermi e Carlo Rubbia. È costantemente classificata tra le migliori università del mondo per la Fisica e comprende, tra gli altri, laboratori dedicati all'ottica, ai laser e alla crescita dei cristalli."
+    title: University of Pisa
+    descr: "The University of Pisa is one of the most ancient universities in Italy and Europe. In its facilities, among others, studied the Physics Nobel laureates Enrico Fermi and Carlo Rubbia. It is consistedly ranked among the world's best universities in the field. We will visit the laboratories of many institution affiliated."
     site: "http://www.df.unipi.it"
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
 
 accomodation:
  - img: img/facilities/hotel.jpg
    title: Hotel Moderno
-   descr: "L'alloggio a Pisa sarà previsto presso l'Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
+   descr: "Accomodation in Pisa will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
    site: "https://www.hotelmoderno.pisa.it/en/"
    map: "https://goo.gl/maps/BuixrGsC8tQ2"
+   
+ - img: img/facilities/hotel.jpg
+   title: Hostel Plus Florence
+   descr: "Accomodation in Florencs will be provided at the Hostel Plus Florence, Via S. Caterina d'Alessandria, 15 - 50129 Firenze (FI)"
+   site: "https://plushostels.com/it/firenze"
+   map: "https://goo.gl/maps/seRkfNzmA2tkKiyK8"
+   
+   
     
 science:
   - img: img/facilities/LENS.jpg
     title: LENS
-    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) è una struttura internazionale e interdisciplinare con sede a Firenze. Le principali linee di ricerca sono la fisica atomica, la fotonica, la chimica fisica e la biofisica."
+    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics."
     site: "http://www.lens.unifi.it"
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
   - img: img/facilities/VIRGO.jpg
     title: VIRGO
-    descr: "VIRGO è un rivelatore di onde gravitazionali costituito da un enorme interferometro laser di tipo Michelson. Fa parte della collaborazione che ha scoperto le Onde Gravitazionali."
+    descr: "VIRGO is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of the collaboration that last year discovered Gravitational Waves"
     site: "http://www.virgo-gw.eu"
     map: "https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en"
     
   - img: img/facilities/Pi_INO.jpg
     title: INO
-    descr: "L'Istituto Nazionale di Ottica (INO) è un caposaldo della rete scientifica del CNR. Opera da oltre novant'anni nel campo dell'Ottica, intesa nella sua accezione più ampia, e ha sempre aggiornato i propri campi di attività in linea con le grandi innovazioni che hanno caratterizzato questo ambito nell'ultimo secolo."
+    descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
     
   - img: img/facilities/INFN.jpg
     title: INFN
-    descr: "La Sezione di Pisa dell’INFN nasce durante i primi anni cinquanta da un gruppo di ricercatori dell’Istituto di Fisica dell’Università di Pisa, facendo di questa città il perfetto punto d'incontro tra fisici teorici e sperimentali. I suoi ricercatori partecipano da sempre alle più importanti collaborazioni italiane e internazionali."
+    descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics."
     site: "https://www.pi.infn.it/"
     map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"

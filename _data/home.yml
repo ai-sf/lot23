@@ -2,11 +2,11 @@ banner: img/LoT2022_logo.png
 
 # msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Light of Tuscany!"
 
-who: "40 studenti, iscritti all'Associazione Italiana Studenti di Fisica, provenienti da tutta Italia e di ogni età."
+who: "40 students from many countries and of all ages, coming to Pisa and Florence to discover the Lights of Tuscany."
 
-when: "Dal 13 al 16 Maggio 2022, arrivi e partenze compresi."
+when: "From the 28th of April to the 2nd of May 2023, arrival and departures included."
 
-where: "Tre giorni a Pisa, uno a Firenze.<br/> La cerimonia di apertura si terrà a Pisa, con conferenze e poster session. Nei giorni successivi i partecipanti visiteranno, tra gli altri, i laboratori di VIRGO e CNR, ma avranno anche l'opportunità di visitare la città di Pisa.<br/> Il lunedì invece ci sposteremo a Firenze, dove sarà possibile visitare i laboratori del LENS e il dipartimento di Fisica, dove si terrà la cerimonia di chiusura."
+where: "Three days in Pisa, two in Florence.<br/> The opening cerimony will be held in Pisa, with conferences and there will be visits to the laboratories of VIRGO, CNR and INFN. We will then move to  Florence, where we will visit the laboratories of LENS of the department of Physics, hosting the closing cerimony."
 
 slideshow:
   - img: img/facilities/lens.jpg
@@ -32,7 +32,7 @@ slideshow:
   - img: img/facilities/INFN2.jpg
     alt: Istiuto Nazionale Fisica Nucleare
     title: INFN
-    text: Istiuto Nazionale Fisica Nucleare
+    text: Istituto Nazionale Fisica Nucleare
 
 
-paragraph: "Benvenuti alla quarta edizione di Lights of Tuscany!<br/> Quest'evento porterà 40 studenti membri dell'Associazione Italiana Studenti di Fisica a visitare alcuni dei centri di ricerca più all'avanguardia d'Europa, conoscendo le ultime novità nei campi di Ottica e Fotonica, nonché le loro applicazioni, raccontate direttamente da chi vi partecipa."
+paragraph: "AISF Local committees of Pisa and Florence wait for you at the Lights of Tuscany programme, now at its fifth edition! The event is open to all students of the International Association of Physics Students and will bring 40 students to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists."

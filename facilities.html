@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strutture
+title: Facilities
 ---
 
 <p>
@@ -8,7 +8,7 @@ title: Strutture
 </p>
 
 <div class="section">
-  <h2>Le Univeristà</h2>
+  <h2>The Universities</h2>
 
   {% for item in site.data.facilities.university %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -29,8 +29,8 @@ title: Strutture
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Sito</a>
-        	  <a href="{{ item.map }}">Mappa</a>
+        	  <a href="{{ item.site }}">Site</a>
+        	  <a href="{{ item.map }}">Maps</a>
         	</div>
         </div>
       </div>
@@ -41,7 +41,7 @@ title: Strutture
 </div>
 
 <div class="section">
-  <h2>Le Strutture</h2>
+  <h2>The Laboratories</h2>
 
   {% for item in site.data.facilities.science %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -62,8 +62,8 @@ title: Strutture
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Sito</a>
-        	  <a href="{{ item.map }}">Mappa</a>
+        	  <a href="{{ item.site }}">Site</a>
+        	  <a href="{{ item.map }}">Maps</a>
         	</div>
         </div>
       </div>
@@ -74,8 +74,8 @@ title: Strutture
 </div>
 
 <div class="section">
-  <h2>Sistemazione</h2>
-      Ai partecipanti saranno predisposti pernottamenti e colazioni presso alcuni hotel nei pressi della Stazione Centrale di Pisa.
+  <h2>Accomodations</h2>
+      Accomodations and breakfast will be provided to the participants in structures near the two cities main train stations.
 
   {% for item in site.data.facilities.accomodation %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -96,8 +96,8 @@ title: Strutture
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Sito</a>
-        	  <a href="{{ item.map }}">Mappa</a>
+        	  <a href="{{ item.site }}">Site</a>
+        	  <a href="{{ item.map }}">Maps</a>
         	</div>
         </div>
       </div>

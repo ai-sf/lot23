@@ -1,40 +1,39 @@
-description: "Siamo felici di ospitare professori, accademici e altre figure di spicco che lavorano con la luce e le tecnologie basate su di essa. Qui potete trovare i profili di alcuni di loro (costantemente aggiornati) e qualche informazione sulle conferenze che ci presenteranno."
+description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
 content:
-- nome: "Prof.ssa Donatella Ciampini"
-  id: ciampini
+- nome: "Prof.ssa Alessandra Toncelli"
+  id: Toncelli
   uni: "Università di Pisa"
-  img: "ciampini.jpg"
-  title: "Engineering light-matter interaction for optical manipulation of atoms and microparticles."
-  bio: "Donatella Ciampini è professore associato di Fisica applicata presso il Dipartimento di Fisica dell'Università di Pisa. Ha conseguito un dottorato di ricerca in Fisica presso UniPI (2002) ed è stata Guest Researcher al National Institute of Standards and Technology (Gaithersburg, MD) e all'University of Maryland. Ha pubblicato più di 80 lavori su riviste internazionali. Un suo lavoro sui condensati di Bose-Einstein su reticoli ottici ed altre tre pubblicazioni sono stati selezionati da Word of Science come 'Highly Cited Paper' in Essential Science Indicators. <br>
-  Ricerca nel campo della Fisica Atomica, Molecolare e Ottica, in particolare nel controllo quantistico della materia, ovvero la manipolazione, attraverso l’interazione radiazione/materia, di sistemi quantistici. Negli ultimi anni i suoi interessi comprendono anche attività di ricerca in fisica applicata, in particolare sistemi optomeccanici in cavità e basati su fibre fotoniche, con applicazioni di sensoristica avanzata."
+  img: "toncelli.jpg"
+  title: "--"
+  bio: ""
   abstract: ""
   link:
-  slides: Ciampini.pdf
+  slides: 
 
 
-- nome: "Prof. Alessandro Tredicucci"
-  id: tredicucci
-  uni: "Università di Pisa"
-  img: "tredicucci.jpg"
-  title: "Nanomaterials and microstructures for THz devices"
-  bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
-  È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
-  Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
-  abstract: "While the wavelength of THz light is in the hundred micrometers range, more and more new physics, device concepts and functionalities are emerging by engineering materials and structures at the micro and nanoscale. In this talk I will present recent developments and future perspectives in the miniaturization of THz quantum cascade lasers and discuss how micro-mechanical elements can find intriguing applications in the detection and modulation of THz radiation. Lastly, I will sketch a few examples of how 2D nanomaterials, like graphene, can impact THz technologies, possibly in directions where truly 'quantum' effects can be exploited."
-  link:
-  slides: Tredicucci.pdf
+#- nome: ""
+#  id: tredicucci
+#  uni: "Università di Pisa"
+#  img: "tredicucci.jpg"
+#  title: "Nanomaterials and microstructures for THz devices"
+#  bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
+#  È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
+#  Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
+#  abstract: "While the wavelength of THz light is in the hundred micrometers range, more and more new physics, device concepts and functionalities are emerging by engineering materials and structures at the micro and nanoscale. In this talk I will present recent developments and future perspectives in the miniaturization of THz quantum cascade lasers and discuss how micro-mechanical elements can find intriguing applications in the detection and modulation of THz radiation. Lastly, I will sketch a few examples of how 2D nanomaterials, like graphene, can impact THz technologies, possibly in directions where truly 'quantum' effects can be exploited."
+#  link:
+#  slides: Tredicucci.pdf
 
-- nome: "Prof. Francesco Fuso"
-  id: fuso
-  uni: "Università di Pisa"
-  img: "fuso.jpg"
-  title: "Towards combining lasers and gene editing via plasmonics"
-  bio: "Francesco Fuso è Professore Associato presso il Dipartimento di Fisica Enrico Fermi, Università di Pisa. I suoi interessi di ricerca coprono una vasta gamma di applicazioni laser alla tecnologia, alla microscopia avanzata, alla scienza dei materiali. È autore di oltre 160 pubblicazioni su riviste internazionali peer-reviewed e di oltre 50 partecipazioni a conferenze scientifiche.<br/>
-  È stato coinvolto in diversi progetti di ricerca finanziati da istituzioni nazionali e internazionali, è membro del comitato editoriale di Materials Research Express (IOP, Bristol) e Biosensors (MDPI, Basel), è stato nominato Outstanding Referee dall'American Physical Society nel 2021 È stato Vice Direttore del Dipartimento di Fisica e Vice Coordinatore della Scuola di Dottorato in Fisica dell'Università di Pisa."
-  abstract: "Laser light finds a huge array of applications. Some of them entail selective transfer of energy that can be used, for instance, to increase temperature at the very local scale. When illuminated by suitable light pulses, metal nanoparticles featuring localized plasmon resonances can play the game. An experiment is discussed where metal nanoparticles are attached to selected sites in a DNA strand, with the aim to promote controlled cleavage of the DNA upon laser illumination. Ambition of the approach is to add a laser control to the CRISPR method, a recently introduced biotechnology aimed at gene editing."
-  link: 
-  slides: Fuso.pdf
+#- nome: "Prof. Francesco Fuso"
+#  id: fuso
+#  uni: "Università di Pisa"
+#  img: "fuso.jpg"
+#  title: "Towards combining lasers and gene editing via plasmonics"
+#  bio: "Francesco Fuso è Professore Associato presso il Dipartimento di Fisica Enrico Fermi, Università di Pisa. I suoi interessi di ricerca coprono una vasta gamma di applicazioni laser alla tecnologia, alla microscopia avanzata, alla scienza dei materiali. È autore di oltre 160 pubblicazioni su riviste internazionali peer-reviewed e di oltre 50 partecipazioni a conferenze scientifiche.<br/>
+#  È stato coinvolto in diversi progetti di ricerca finanziati da istituzioni nazionali e internazionali, è membro del comitato editoriale di Materials Research Express (IOP, Bristol) e Biosensors (MDPI, Basel), è stato nominato Outstanding Referee dall'American Physical Society nel 2021 È stato Vice Direttore del Dipartimento di Fisica e Vice Coordinatore della Scuola di Dottorato in Fisica dell'Università di Pisa."
+#  abstract: "Laser light finds a huge array of applications. Some of them entail selective transfer of energy that can be used, for instance, to increase temperature at the very local scale. When illuminated by suitable light pulses, metal nanoparticles featuring localized plasmon resonances can play the game. An experiment is discussed where metal nanoparticles are attached to selected sites in a DNA strand, with the aim to promote controlled cleavage of the DNA upon laser illumination. Ambition of the approach is to add a laser control to the CRISPR method, a recently introduced biotechnology aimed at gene editing."
+#  link: 
+#  slides: Fuso.pdf
 
   
 

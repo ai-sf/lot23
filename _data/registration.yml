@@ -1,53 +1,51 @@
-info: "Puoi trovare il modulo di iscrizione in fondo a questa pagina.
+info: "You can find the registration form at the bottom of this page.
 </p><p>
-Prima di compilarlo, leggi i termini e le condizioni di seguito. Ti ricordiamo che, al momento dell'iscrizione, ti verranno richiesti dati anagrafici (quali nome, cognome, data di nascita, affiliazione universitaria, documento di identità, ecc.) e una nota per descrivere la tua motivazione a partecipare all'evento."
+Before you fill it, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a note to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously, as it will be taken into consideration when selecting applicants."
 
-starting_date: "2022-04-18 12:00"
-ending_date: "2022-04-30 23:59"
+starting_date: "2023-03-02 12:00"
+ending_date: "2023-04-09 23:59"
 
 posters?: true
 
-posters: "Durante la terza giornata di attività si terrà a Pisa una serie di brevi talk degli studenti e durante la cerimonia di apertura sarà organizzata una poster session. Gli studenti di tutti i livelli e specializzazioni sono invitati a presentare domanda per presentare il proprio lavoro di ricerca, sia esso parte di un progetto di tesi (a livello di laurea, master o dottorato di ricerca) o il risultato di un programma di ricerca estivo"
+posters: "During the event a set of students talk and a poster session will take place, so everyone is invited to apply and present their current research work, wheter it is part of a thesis project (at bacherlor, master or PhD level) or is an outcome of a summer programme or personal project."
 
 selection:
   info: ""
   specs:
-    - text: "Per partecipare all'evento devi essere iscritto ad AISF. Se non lo sei puoi iscriverti anche adesso."
+    - text: "In order to enroll one must be a member to IAPS or any affiliated associations."
+    - text: "If you are Italian and you are not an AISF/IAPS member you can become one while registering for this event by compiling the following form. <br> Being an AISF member also includes membership to IAPS."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "È richiesto ad ogni partecipante il possesso di un <b>green pass rafforzato</b> in corso di validità per tutta la durata dell'evento. Verrà richiesto ad esempio di mostrarlo all'entrata di ogni laboratorio o struttura coinvolta nel programma."
-    - text: "Sono disponibili 40 posti. Una volta terminato il periodo di iscrizione, i candidati selezionati dovranno confermare l'iscrizione pagando una quota di partecipazione di massimo € 80."
-    - text: "Nel modulo di iscrizione è possibile di organizzare la propria sistemazione autonomamente; in tal caso la quota di partecipazione è € 50."
-    - text: "Verrà data preferenza agli studenti che presenteranno abstract (per un talk o un poster)"
-    - text: "Si prega di notare che sfortunatamente non possiamo fornire borse di studio e/o finanziamenti per nessuno studente al momento."
-
+    - text: "It is required for participation to possess a green pass certification valid during the course of the event."
+    - text: "40 places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum 80€."
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time"
+    - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
+      url: "#!"
 terms:
-  info: "Prima di iscriverti all'evento, leggi attentamente e prendi nota di quanto segue:"
+  info: "Before you subscribe to the event, please read carefully and take note of the followings:"
   specs:
-    - text: "Tutti i dati personali saranno trattati con riservatezza. Non verranno inoltrati a terzi salvo ove necessario ai fini dell'evento. Tieni presente che inoltreremo alcune delle informazioni contenute nel modulo di registrazione alle università e ai centri di ricerca coinvolti, nonché agli hotel per organizzare le sistemazioni."
+    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the Universities and research centres involved, as well as accomodation facilities. We will also send your name and university to the board of the national/loca committees of IAPS to check for your IAPS membership."
       url: "#!"
-    - text: "Possono partecipare a questo evento solo gli studenti iscritti a un'università o istituto simile a un corso di fisica o attinente alla fisica, nonché fino a dodici mesi dopo aver conseguito la laurea in un'università. Confermi che avrai almeno 18 anni di età entro il 13 Maggio 2022."
+    - text: "Only students enrolled in a university or similar institution in a physics or physics-related course can participate, as well as those who received their degree in the last twelve months. You also confirm that you will be of 18 years of age on the 27th of April 2023."
       url: "#!"
-    - text: "Riconosci e accetti che il comitato organizzatore e gli organizzatori dell'evento non hanno alcuna responsabilità per lesioni, perdite o danni di qualsiasi tipo derivanti dalla tua partecipazione al programma Lights of Tuscany 2022."
+    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2023 programme."
       url: "#!"
-    - text: "Accetti i Termini e le Condizioni di AISF."
+    - text: "You accept the IAPS Code of Conduct."
       url: "files/Informativa_Privacy_AISF.pdf"
       button: "PDF"
-    - text: "Partecipando all'evento accetti di essere ripreso, fotografato e registrato in altri modi durante la conferenza e con la presente concedi espressamente al comitato organizzatore, AISF, il diritto di utilizzare la tua foto, film o qualsiasi altra forma di pubblicazione sui media in contesti come il sito internet, social media, brochure, poster, materiale informativo e pubblicitario. Confermi inoltre che le informazioni contenute in questa iscrizione sono vere e corrette."
+    - text: "By participating in the event you agree to be filmed, photographed and otherwise recorded during the conference anf hereby expressly grant the organizing committee, AISF and IAPS the right to use your pictures, movie or any other form of media publication in contexts such as internet sites, social media, brochures, posters, informative and advertising materials. You also confirm that the information contained in this application is true and correct."
       url: "#!"
-    - text: "Accetti che né il comitato organizzatore, né l'AISF o uno qualsiasi degli Istituti ospitanti non possano essere ritenuti responsabili del contenuto di qualsiasi intervento, poster, workshop, escursione o attività simile."
+    - text: "You accept that either the organizing committee, AISF or any other of the hosting institutes cannot be made responsible for the content of any poster, talk, workshop, excursion or similar activity."
       url: "#!"
-    - text: "Accetti che, in caso di disdetta da parte di un partecipante, il Comitato Organizzatore provveda al rimborso fino al 5 Maggio 2022, solo se sarà possibile trovare un sostituto per lo studente. Prima di tale data, l'eventuale rimborso sarà effettuato ad eccezione di una quota di € 20, che verrà trattenuta a copertura delle spese amministrative. In nessun caso è previsto alcun rimborso delle quote associative."
+    - text: "You accept that, in case of cancellation by a participant, the Organizing Committee will provide a reimbursement up to April the 16th, only if a replacement for the student can be found. Before this date, any reimbursement will be made except for a 20 € fee, which will be withheld to cover administrative costs. No reimbursement will be given for membership fees under no circumstances."
       url: "#!"
-    - text: "I presenti termini e condizioni sono regolati dalle leggi della Repubblica Italiana."
+    - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
       url: "#!"
 
 deadlines:
   info: ""
   specs:
-    - text: "Le iscrizioni termineranno il 30 Aprile 2022 alle 12:00"
+    - text: "The registration period will end on April the 9th."
       url: "#!"
-    - text: "Una volta terminate le iscrizioni, tutti i partecipanti selezionati saranno contattati via email. I pagamenti saranno quindi richiesti (tramite bonifico bancario o PayPal) entro il 5 Maggio 2022."
-      url: "#!"
-    - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
+    - text: "All applicants will be emailed within April the 10th. Payments will then be required (by bank transfer or PayPal) within April the 16th"
       url: "#!"

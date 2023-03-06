@@ -1,80 +1,97 @@
-info: " <p> Il programma Lights of Tuscany giunge alla sua quarta edizione. Dopo il grande successo deglle precedenti e un lungo periodo di assenza di grandi eventi live a causa della pandemia che ancora ci investe, l'Associazione Italiana Studenti di Fisica (AISF) ha deciso di riproporre uno dei suoi eventi di maggior successo, includendo anche alcune novità. </p>
-<p> L'evento sarà incentrato sulla fotonica, ma verranno toccati numerosi altri argomenti, tra cui la fisica della materia, l'ottica quantistica, la biofisica. Agli studenti sarà utile avere una conoscenza di base di questi argomenti, ma vogliamo far sì che chiunque sia interessato possa usufruire al meglio di questa opportunità per imparare cose nuove, indipendentemente dal proprio background. </p>
-<p> Lights of Tuscany 2022 è il primo evento in presenza organizzato da AISF dall'inizio della pandemia e vorremmo che costituisse un'opportunità per gli studenti di incontrarsi, socializzare, scambiarsi idee e, perché no, preparare il terreno per nuove amicizie o future collaborazioni. A questo scopo sono state inserite nei 4 giorni di programma alcune attività sociali e di carattere culturale. </p>
-<p> Il Programma sarà costantemente aggiornato man mano che verranno definiti ulteriori dettagli. </p> "
+info: " <p> The Lights of Tuscany programme has reached its fifth edition and we are happy to annouce the return of this event on the international scale, with new activities and improvements
+<p> The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter physics, Quantum Optics, Biophysics. To have a basic understanding of these subjects will help in order to effectively make the most of the programme, but this is an opportunity for everyone to learn regardless of one's background.
+<p> Lights of Tuscany 2023 will also see alongside its participants, the students of the last years of high school in Pisa that will join us on the first day of conferences, to give them a first look in the world of research and university, as well as the chance to meet both students and professors and ask them any question regarding their research. Anyone is invited to share their own experience during the conferences and coffee breaks.</p>
+<p> The Program will be constantly updated as further details are provided. </p> "
 
 
 
 schedule:
-  - day: Venerdì
-    date: "13/05"
-    short_descr: Arrivo a Pisa e Conferenze di Apertura.
+  - day: Friday
+    date: "28/04"
+    short_descr: Arrival in Pisa and welcome cerimony.
     activity:
-      - hour: "07.00 - 15.00"
+      - hour: "07:00 - 14:00"
         descr: "Check-in"
-      - hour: "16.00 - 16.15"
-        descr: "Cerimonia di Apertura"
+      - hour: "15.00 - 15.15"
+        descr: "Welcome Cerimony"
       - hour: "16.15 - 19.00"
-        descr: "Guest Lectures"
-      - hour: "19.00 - .."
-        descr: "Poster Session"
+        descr: "Guest Lectures with coffee breaks"
       - hour: "19.00 - 20.00"
-        descr: "Cena a buffet"
+        descr: "Buffet dinner"
       - hour: "21.00 - .."
-        descr: "Visita notturna a Pisa"
+        descr: "Night visits in Pisa"
         
-  - day: Sabato
-    date: "14/05"
-    short_descr: Visita a VIRGO e Laboratori di Pisa
+  - day: Saturday
+    date: "29/04"
+    short_descr: Lab Visits in Pisa
     activity:
-      - hour: "07.00 - 08.00"
-        descr: "Colazione"
-      - hour: "08.00 - 09.00"
-        descr: "Trasferimento in bus"
-      - hour: "09.00 - 12.00"
-        descr: "Visita a VIRGO"
-      - hour: "12.30 - 13.30"
-        descr: "Pranzo a mensa @Pisa"
-      - hour: "14.30 - 19.00"
-        descr: "Visita ai laboratori"
-      - hour: "19.00 - 21.00"
-        descr: "Cena"
-      - hour: "21.00 - .."
-        descr: "Free night"  
+      - hour: "07:00 - 08:30"
+        descr: "Breakfast"
+      - hour: "08:30 - 9:00"
+        descr: "Bus Transfer"
+      - hour: "09:00 - 11:45"
+        descr: "Lab Visits"
+      - hour: "12:15 - 13:30"
+        descr: "Lunch"
+      - hour: "15:00- 18:00"
+        descr: "Lab Visits"
+      - hour: "19:00"
+        descr: "Free dinner"
               
                 
-  - day: Domenica
-    date: "15/05"
-    short_descr: Student Talks e visita di Pisa
+  - day: Sunday
+    date: "30/04"
+    short_descr: Student Talks and Pisa visits
     activity:
-      - hour: "07.00 - 08.00"
-        descr: "Colazione"
-      - hour: "08.00 - 12.00"
-        descr: "Student Talks"
-      - hour: "12.00 - 14.00"
-        descr: "Pranzo a mensa @Pisa"
-      - hour: "15.00 - 19.00"
-        descr: "Visite e attività culturali @Pisa"
-      - hour: "19.00 - 21.00"
-        descr: "Cena sociale"
-      - hour: "21.00 - .."
-        descr: "Giochi e attività di gruppo"  
+      - hour: "07:00 - 08:00"
+        descr: "Breakfast"
+      - hour: "08:30 - 9:30"
+        descr: "Bus transfer to Virgo"
+      - hour: "9:30 - 12:30"
+        descr: "Visit to the Interferometer"
+      - hour: "13:30 - 14:30"
+        descr: "Lunch"
+      - hour: "14:30 - 17:30"
+        descr: "Talks & Poster session"
+      - hour: "19:00 - 21:00"
+        descr: "Social Dinner"
+      - hour: "21:00 - .."
+        descr: "Free night and social activities"  
         
         
-  - day: Lunedì
-    date: "16/06"
-    short_descr: LENS e Cerimonia di Chiusura a Firenze
+  - day: Monday
+    date: "01/05"
+    short_descr: Transfer to Florence
     activity:
-      - hour: "07.00 - 11.00"
-        descr: "Colazione e Trasferimento a Firenze"
-      - hour: "11.00 - 13.00"
-        descr: "Pranzo a mensa @Firenze"
-      - hour: "14.00 - 16.00"
-        descr: "Visita al LENS"
-      - hour: "16.00 - 17.00"
-        descr: Cerimonia di Chiusura"
-      - hour: "17.30 - .."
-        descr: "Partenze"  
+      - hour: "07:00 - 8:00"
+        descr: "Breakfast" 
+      - hour: "08:15 - 11:00"
+        descr: "Bus transfer to Florence"
+      - hour: "11:00 - 14:00"
+        descr: "Free Time"
+      - hour: "14:00 - 15:00"
+        descr: "Hotel Check-in"
+      - hour: "15:00 - 18:00"
+        descr: "Guided Visits of Florence"
+        
+  - day: Martedì 2
+    date: "02/05"
+    short_descr: LENS and Closing Cerimony
+    activity:
+      - hour: "07:00 - 8:00"
+        descr: "Breakfast" 
+      - hour: "08:15 - 9:30"
+        descr: "Transfer to the department"
+      - hour: "10:00 - 10:30"
+        descr: "Presentation by the director"
+      - hour: "10:30 - 13:00"
+        descr: "Lens Visits"
+      - hour: "13:00 - 14:30"
+        descr: "Lunch"
+      - hour: "14:30 - 17:00"
+        descr: "Lab Visits"
+      - hour: "17:00 - 17:30"
+        descr: "Closing Cerimony"
 
 few_info:
   info: ""
@@ -89,13 +106,13 @@ few_info:
         # - text: "c) Biophysics"
           # url: "#!"
         # - text: "The 3 last groups will have a combination of the previous topics"
-    - text: "Il costo dell'evento per ciascun partecipante è fissato a un massimo di €80. Tenete a mente che questa somma <b>non comprende</b>:"
+    - text: "The cost of the event is fixed to a maximum of 80€. Keep in mind that this sum <b>does not include</b>:"
       url: 
       subpoints:
-        - text: "Viaggi verso Pisa, trasferimenti verso la vostra sistemazione e partenze da Firenze. L'organizzazione di questi e i loro costi sono lasciati al partecipante;"
+        - text: "Travel toward Pisa and returns from Florence. Organization and payment of these are in charge of the participant;"
           url: 
-        - text: "Assicurazione;"
+        - text: "Insurance;"
           url: 
-        - text: "Pasti non specificati nel Programma ufficiale. Il Comitato Organizzatore non mancherà di suggerire luoghi dove poter mangiare e rilassarsi."
+        - text: "Meals not specified in the official Program. The organizing committee will however suggest a few places where to eat and spend some free time."
           url: 
    
