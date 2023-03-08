@@ -2,29 +2,38 @@ description2: "This year Light of Tuscany is not only an occasion for univerista
 content2:
 - nome: "Giulio Carotta"
   id: Carotta
-  uni: "Università di Pisa"
+  uni: "University of Pisa"
   img: "carotta.jpg"
-  title: "--"
-  bio: ""
+  title: ""
+  bio: "After completing his studies at the “Liceo Scientifico E. Fermi” in San Marcello P.se, Giulio enrolled in Pisa at the faculty of physics, where he got his degree in Physics in 2022 with a thesis on the Thermal conductivity of GeSn films. He continued his studies on condensed matter physics with an interest in crystalline and solid systems. On his free time he can be found hiking in the mountains around Pisa or coordinating the activities of the local committee of AISF."
+  abstract: ""
+  link:
+  slides: 
+  - nome: "Ismaele Bartoluccio"
+  id: Bartoluccio
+  uni: "University of Pisa"
+  img: ""
+  title: ""
+  bio: "Born in Vibo Valentia (Calabria) on March 11, 1998, Ismaele got his scientific diploma at “Liceo Scientifico G. Berto” in Vibo Valentia. After that he graduated at the University of Calabria with a thesis on the Mathematical aspect of GUP models in Quantum Mechanics, and now he's studying Theoretical Physics in Pisa, with a deep focus on Quantum Gravity and Algebraic Topology. Besides physics his other passions are: reading books, listening and playing music (piano and guitar), cooking and history of sports in general."
   abstract: ""
   link:
   slides: 
 
 
 
+description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Soon we will announce their names, profiles and title of their talks, follow our social media page for more info and notifications!"
+#description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
-description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
-
-content:
-- nome: "Prof.ssa Alessandra Toncelli"
-  id: Toncelli
-  uni: "Università di Pisa"
-  img: "toncelli.jpg"
-  title: "--"
-  bio: ""
-  abstract: ""
-  link:
-  slides: 
+#content:
+#- nome: "Prof.ssa Alessandra Toncelli"
+#  id: Toncelli
+#  uni: "Università di Pisa"
+#  img: "toncelli.jpg"
+#  title: ""
+#  bio: ""
+#  abstract: ""
+#  link:
+#  slides: 
 
 
 #- nome: ""
