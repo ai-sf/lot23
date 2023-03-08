@@ -1,3 +1,18 @@
+description2: "bla bla"
+content2:
+- nome: "Giulio Carotta"
+  id: Carotta
+  uni: "Università di Pisa"
+  img: "carotta.jpg"
+  title: "--"
+  bio: ""
+  abstract: ""
+  link:
+  slides: 
+
+
+
+
 description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
 content:
