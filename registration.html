@@ -130,10 +130,10 @@ title: Registration
 {% assign ending_date = site.data.registration.ending_date | date: '%s' %}
 {% if today_date < ending_date %}
 	{% if today_date > starting_date %}
-        <div class="col">
-        <div style="width:100%">
-        <iframe id="regform" src="https://forms.gle/WPaNRSGbVox4kHKj6" width="100%" height="350" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
-        </div>
+        <div class="col s4 m4">
+	<div class="row center">
+            <a href="https://forms.gle/WPaNRSGbVox4kHKj6" id="about-button" class="btn-large waves-effect waves-light">Registration Form</a>
+          </div>
         </div>
     {% else %}
         <div class="row center">
