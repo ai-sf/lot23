@@ -9,7 +9,8 @@ content2:
   abstract: ""
   link:
   slides: 
-  - nome: "Ismaele Bartoluccio"
+  
+- nome: "Ismaele Bartoluccio"
   id: Bartoluccio
   uni: "University of Pisa"
   img: ""
