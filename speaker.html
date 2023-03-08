@@ -2,6 +2,49 @@
 layout: page
 title: Conferenze
 ---
+<h2>Students speakers</h2>
+<p>
+{{ site.data.speaker.description2 }}
+</p>
+
+<ul class="collection id=speakerinvitati">
+	{% for item in site.data.speaker.content2 %}
+  <li class="collection-item avatar" id="{{ item.id }}">
+		{% if item.img != nil %}
+		<img src="{{ site.url }}/img/speaker/{{ item.img }}" alt="" class="circle">
+		{% endif %}
+		{% if item.group != nil %}
+			{% for foto in item.group %}
+    		<img src="{{ site.url }}/{{ foto.foto }}" alt="" style="width:8%">
+			{% endfor %}
+			<br>
+		{% endif %}
+		<span class="title">
+    	{{ item.nome }}
+    </span>
+    <br>
+    <span>
+      <i>{{ item.uni }}</i>
+    </span>
+  	<br>
+		{% if item.bio != nihil %}
+		<p style="text-align:justify">
+      {{ item.bio }}
+    </p>
+		{% endif %}
+		<br>
+		{% if item.title != nil %}
+    <p style="color:{{site.data.generic.color1}}"><b>{{item.title}}</b></p>
+		<p style="text-align:justify">{{ item.abstract }}</p>
+		{% endif %}
+	  
+	   	{% if item.slides != nil %}
+		<br><p><a href="{{site.url}}/files/Slides/{{item.slides}}" target="_blank" class ="blue-text" > <i class="fa fa-download" aria-hidden="true"></i> Download</a> the talk's slides <br><br></p>
+	    </li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
 
 <h2>Guest speakers</h2>
 <p>
