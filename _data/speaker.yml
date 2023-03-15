@@ -13,7 +13,7 @@ content2:
 - nome: "Ismaele Bartoluccio"
   id: Bartoluccio
   uni: "University of Pisa"
-  img: ""
+  img: "bartoluccio.jpg"
   title: ""
   bio: "Born in Vibo Valentia (Calabria) on March 11, 1998, Ismaele got his scientific diploma at “Liceo Scientifico G. Berto” in Vibo Valentia. After that he graduated at the University of Calabria with a thesis on the Mathematical aspect of GUP models in Quantum Mechanics, and now he's studying Theoretical Physics in Pisa, with a deep focus on Quantum Gravity and Algebraic Topology. Besides physics his other passions are: reading books, listening and playing music (piano and guitar), cooking and history of sports in general."
   abstract: ""
@@ -25,29 +25,29 @@ content2:
 description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Soon we will announce their names, profiles and title of their talks, follow our social media page for more info and notifications!"
 #description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
-#content:
-#- nome: "Prof.ssa Alessandra Toncelli"
-#  id: Toncelli
-#  uni: "Università di Pisa"
-#  img: "toncelli.jpg"
-#  title: ""
-#  bio: ""
-#  abstract: ""
-#  link:
-#  slides: 
+content:
+- nome: "Professor Alessandra Toncelli"
+  id: Toncelli
+  uni: "Università di Pisa"
+  img: "toncelli.jpg"
+  title: "Photonics for biomedical and quantum computing applications"
+  bio: "Alessandra Toncelli is an associated professor of applied physics at the Physics department at the University of Pisa. Her major research interests are growth and spectroscopy analisys of crystalline materials, and in the years her studies expanded in the infrared and THz spectrum range.<\br> Her work characterized many materials with applications in photonics, biomedics and scintillation."
+  abstract: ""
+  link:
+  slides: 
 
 
-#- nome: ""
-#  id: tredicucci
-#  uni: "Università di Pisa"
-#  img: "tredicucci.jpg"
-#  title: "Nanomaterials and microstructures for THz devices"
-#  bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
-#  È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
-#  Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
-#  abstract: "While the wavelength of THz light is in the hundred micrometers range, more and more new physics, device concepts and functionalities are emerging by engineering materials and structures at the micro and nanoscale. In this talk I will present recent developments and future perspectives in the miniaturization of THz quantum cascade lasers and discuss how micro-mechanical elements can find intriguing applications in the detection and modulation of THz radiation. Lastly, I will sketch a few examples of how 2D nanomaterials, like graphene, can impact THz technologies, possibly in directions where truly 'quantum' effects can be exploited."
-#  link:
-#  slides: Tredicucci.pdf
+- nome: "Researcher Simone Zanotto"
+  id: zanotto
+  uni: "CNR-NANO"
+  img: "zanotto.png"
+  title: "Taming waves with metamaterials and metasurfaces."
+  bio: "Simone Zanotto is a Permanent Researcher at the Nanoscience Institute (CNR-NANO).<\br>After obtaining the Degree of Physics at the University of Pavia (2009), he joined the NEST Labs (Pisa) as PhD student of Scuola Normale Superiore, earning the degree in 2014. Subsequently he stayed at Polifab – Politecnico di Milano (2014-2015) and at LENS Laboratory (Firenze, 2016) as research scientist.<\br>
+  His scientific production spanned from nanophotonics for photovoltaics, to quantum light-matter interaction (intersubband polaritons), through tunable photonics based on transition metal oxides and responsive polymers.<\br>
+  Since 2018 he is serving as Co-Teacher of the Laboratory of Physics of Matter and Nanotechnology at University of Pisa."
+  abstract: ""
+  link:
+  slides: 
 
 #- nome: "Prof. Francesco Fuso"
 #  id: fuso
