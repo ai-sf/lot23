@@ -31,7 +31,7 @@ content:
   uni: "Università di Pisa"
   img: "toncelli.jpg"
   title: "Photonics for biomedical and quantum computing applications"
-  bio: "Alessandra Toncelli is an associated professor of applied physics at the Physics department at the University of Pisa. Her major research interests are growth and spectroscopy analisys of crystalline materials, and in the years her studies expanded in the infrared and THz spectrum range.<\br> Her work characterized many materials with applications in photonics, biomedics and scintillation."
+  bio: "Alessandra Toncelli is an associated professor of applied physics at the Physics department at the University of Pisa. Her major research interests are growth and spectroscopy analisys of crystalline materials, and in the years her studies expanded in the infrared and THz spectrum range.<br/> Her work characterized many materials with applications in photonics, biomedics and scintillation."
   abstract: ""
   link:
   slides: 
@@ -42,7 +42,7 @@ content:
   uni: "CNR-NANO"
   img: "zanotto.png"
   title: "Taming waves with metamaterials and metasurfaces."
-  bio: "Simone Zanotto is a Permanent Researcher at the Nanoscience Institute (CNR-NANO).<\br>After obtaining the Degree of Physics at the University of Pavia (2009), he joined the NEST Labs (Pisa) as PhD student of Scuola Normale Superiore, earning the degree in 2014. Subsequently he stayed at Polifab – Politecnico di Milano (2014-2015) and at LENS Laboratory (Firenze, 2016) as research scientist.<\br>His scientific production spanned from nanophotonics for photovoltaics, to quantum light-matter interaction (intersubband polaritons), through tunable photonics based on transition metal oxides and responsive polymers.<\br>Since 2018 he is serving as Co-Teacher of the Laboratory of Physics of Matter and Nanotechnology at University of Pisa."
+  bio: "Simone Zanotto is a Permanent Researcher at the Nanoscience Institute (CNR-NANO). After obtaining the Degree of Physics at the University of Pavia (2009), he joined the NEST Labs (Pisa) as PhD student of Scuola Normale Superiore, earning the degree in 2014. Subsequently he stayed at Polifab – Politecnico di Milano (2014-2015) and at LENS Laboratory (Firenze, 2016) as research scientist.<br/>His scientific production spanned from nanophotonics for photovoltaics, to quantum light-matter interaction (intersubband polaritons), through tunable photonics based on transition metal oxides and responsive polymers.<br/>Since 2018 he is serving as Co-Teacher of the Laboratory of Physics of Matter and Nanotechnology at University of Pisa."
   abstract: ""
   link: "//meta.nano.cnr.it"
   slides: 
