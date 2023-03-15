@@ -42,11 +42,9 @@ content:
   uni: "CNR-NANO"
   img: "zanotto.png"
   title: "Taming waves with metamaterials and metasurfaces."
-  bio: "Simone Zanotto is a Permanent Researcher at the Nanoscience Institute (CNR-NANO).<\br>After obtaining the Degree of Physics at the University of Pavia (2009), he joined the NEST Labs (Pisa) as PhD student of Scuola Normale Superiore, earning the degree in 2014. Subsequently he stayed at Polifab – Politecnico di Milano (2014-2015) and at LENS Laboratory (Firenze, 2016) as research scientist.<\br>
-  His scientific production spanned from nanophotonics for photovoltaics, to quantum light-matter interaction (intersubband polaritons), through tunable photonics based on transition metal oxides and responsive polymers.<\br>
-  Since 2018 he is serving as Co-Teacher of the Laboratory of Physics of Matter and Nanotechnology at University of Pisa."
+  bio: "Simone Zanotto is a Permanent Researcher at the Nanoscience Institute (CNR-NANO).<\br>After obtaining the Degree of Physics at the University of Pavia (2009), he joined the NEST Labs (Pisa) as PhD student of Scuola Normale Superiore, earning the degree in 2014. Subsequently he stayed at Polifab – Politecnico di Milano (2014-2015) and at LENS Laboratory (Firenze, 2016) as research scientist.<\br>His scientific production spanned from nanophotonics for photovoltaics, to quantum light-matter interaction (intersubband polaritons), through tunable photonics based on transition metal oxides and responsive polymers.<\br>Since 2018 he is serving as Co-Teacher of the Laboratory of Physics of Matter and Nanotechnology at University of Pisa."
   abstract: ""
-  link:
+  link: "//meta.nano.cnr.it"
   slides: 
 
 #- nome: "Prof. Francesco Fuso"
