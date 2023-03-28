@@ -47,15 +47,15 @@ content:
   link: "//meta.nano.cnr.it"
   slides: 
 
-nome: "Researcher Luca Tanzi"
-id: tanzi
-uni: "CNR-INO"
-img: "tanzi.jpg"
-title: "Exploring the supersolid phase of matter with an atomic quantum simulator"
-bio: "Luca Tanzi is a Senior Researcher at the National Research Council (CNR), where he studies fundamental physical phenomena with an ultracold quantum gas experiment. After graduating in Physics from the University of Milan, he obtained his Ph.D. in Atomic and Molecular Spectroscopy from the LENS Laboratory of the University of Florence in 2014.<br/> He then carried out research activities in various European institutes, including ICFO (Barcelona) and the National Institute of Optics (INO), Pisa section. He has conducted cutting-edge experiments on disordered quantum systems, quantum mixtures and dipolar quantum gases. His main scientific discoveries are: the observation of a 'quantum droplet' regime in mixtures of quantum gases, and the experimental observation of the so-called supersolid, a paradoxical state of matter that combines two natures in one: that of the solid (rigid structure) and that of the superfluid (fluid without friction)."
-abstract: ""
-link: 
-slides: 
+- nome: "Researcher Luca Tanzi"
+  id: tanzi
+  uni: "CNR-INO"
+  img: "tanzi.jpg"
+  title: "Exploring the supersolid phase of matter with an atomic quantum simulator"
+  bio: "Luca Tanzi is a Senior Researcher at the National Research Council (CNR), where he studies fundamental physical phenomena with an ultracold quantum gas experiment. After graduating in Physics from the University of Milan, he obtained his Ph.D. in Atomic and Molecular Spectroscopy from the LENS Laboratory of the University of Florence in 2014.<br/> He then carried out research activities in various European institutes, including ICFO (Barcelona) and the National Institute of Optics (INO), Pisa section. He has conducted cutting-edge experiments on disordered quantum systems, quantum mixtures and dipolar quantum gases. His main scientific discoveries are: the observation of a 'quantum droplet' regime in mixtures of quantum gases, and the experimental observation of the so-called supersolid, a paradoxical state of matter that combines two natures in one: that of the solid (rigid structure) and that of the superfluid (fluid without friction)."
+  abstract: ""
+  link: 
+  slides: 
 
   
 
