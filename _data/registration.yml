@@ -16,8 +16,7 @@ selection:
     - text: "If you are Italian and you are not an AISF/IAPS member you can become one while registering for this event by compiling the following form. <br> Being an AISF member also includes membership to IAPS."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "It is required for participation to possess a green pass certification valid during the course of the event."
-    - text: "40 places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum 80€."
+    - text: "40 places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum 70€."
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time"
     - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
       url: "#!"
