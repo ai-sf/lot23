@@ -32,6 +32,12 @@
     - text: CircleU
       img: circleu_logo.jpg
       link: "https://www.circle-u.eu/"
+    - text: Società Italiana di Fisica
+      img: "logo-sif-125-oro.png"
+      link: "http://www.sif.it/news"
+#    - text: Società Italiana di Ottica e Fotonica
+ #     img: "logo-sif-125-oro.png"
+  #    link: "https://www.siof-ottica.it/"
 #    - text: University of Firenze
  #     img: LOGO_UNIFI.jpg
   #    link: "https://www.unifi.it/"
@@ -49,9 +55,7 @@
     #- text: Comune di Pisa
       #img: comune_pisa.png
      # link: 
-    #- text: Società Italiana di Fisica
-#      img: "logo-sif-125-oro.png"
- #     link: "http://www.sif.it/news"
+   
    
     
    
