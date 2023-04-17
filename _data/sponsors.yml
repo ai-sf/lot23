@@ -36,14 +36,14 @@
       img: "logo-sif-125-oro.png"
       link: "http://www.sif.it/news"
     - text: Società Italiana di Ottica e Fotonica
-      img: "logoSIOFNewCompleto.png"
+      img: logoSIOFNewCompleto.png
       link: "https://www.siof-ottica.it/"
-#    - text: University of Firenze
- #     img: LOGO_UNIFI.jpg
-  #    link: "https://www.unifi.it/"
-#    - text: Dipartimento di Fisica e Astronomia - UniFi 
- #     img: dipartimento_firenze.png
-  #    link: "http://www.fisica.unifi.it/"
+    - text: University of Firenze
+      img: LOGO_UNIFI.jpg
+      link: "https://www.unifi.it/"
+    - text: Dipartimento di Fisica e Astronomia - UniFi 
+      img: dipartimento_firenze.png
+      link: "http://www.fisica.unifi.it/"
 
 
 #- title: "With the support of:"
